@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x76f03b5a6f7def2c8b0b3ffc5761da1dfe793ec9",
+  "SCAN_LINK": "https://bscscan.com/address/0x76f03b5a6f7def2c8b0b3ffc5761da1dfe793ec9",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "HamstarZ",
+  "SYMBOL": "HAMINU",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 130000000000000000,
+  "DISPLAY_COST": 0.13,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Tofu NFT",
+  "MARKETPLACE_LINK": "https://tofunft.com",
+  "SHOW_BACKGROUND": true
+}
